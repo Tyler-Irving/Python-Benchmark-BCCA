@@ -1,19 +1,26 @@
-[{
-    "name": "latte",
-    "price": 4.09
-}, {
-    "name": "cappuccino",
-    "price": 4.09
-}, {
-    "name": "americano",
-    "price": 2.85
-}, {
-    "name": "iced coffee",
-    "price": 2.99
-}, {
-    "name": "drip coffee",
-    "price": 2.55
-}, {
-    "name": "cafe au lait",
-    "price": 3.45
-}]
+[
+    {
+        "name": "latte",
+        "price": 4.09
+    },
+    {
+        "name": "cappuccino",
+        "price": 4.09
+    },
+    {
+        "name": "americano",
+        "price": 2.85
+    },
+    {
+        "name": "iced coffee",
+        "price": 2.99
+    },
+    {
+        "name": "drip coffee",
+        "price": 2.55
+    },
+    {
+        "name": "cafe au lait",
+        "price": 3.45
+    }
+]

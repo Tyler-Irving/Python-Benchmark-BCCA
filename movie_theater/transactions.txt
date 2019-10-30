@@ -1,3 +1,5 @@
 movie, showtime, type of show, # of tickets, total purchase
 Avengers Infinity War, 6:15 PM, regular, 1, 5.25
 Avengers Age of Ultron, 2:45 PM, matinee, 3, 10.50
+
+The Avengers, 11:00 AM, matinee, 3, 10.50
